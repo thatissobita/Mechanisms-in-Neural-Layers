@@ -1,6 +1,6 @@
-# Mechanisms for Neural Layers  
+# Mechanisms in Neural Layers  
 
-Welcome to the **Mechanisms for Neural Layers** repository! This project explores advanced neural mechanisms designed to enhance the learning and plasticity of spiking neural networks. By implementing lateral inhibition, K-Winners-Take-All (KWTA) competition, and homeostasis mechanisms, this repository demonstrates how networks can achieve better and faster learning while maintaining stability.  
+Welcome to the **Mechanisms in Neural Layers** repository! This project explores advanced neural mechanisms designed to enhance the learning and plasticity of spiking neural networks. By implementing lateral inhibition, K-Winners-Take-All (KWTA) competition, and homeostasis mechanisms, this repository demonstrates how networks can achieve better and faster learning while maintaining stability.  
 
 ---
 
